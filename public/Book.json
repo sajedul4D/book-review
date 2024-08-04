@@ -1,0 +1,62 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/mHMktJR/4084a0711c388099e55c08e2c0f28a25.jpg",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["classic", "race", "justice"]
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/fvCQv6t/71k-XYs4t-Cv-L-AC-UF1000-1000-QL80.jpg",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Dystopian",
+      "tags": ["totalitarianism", "surveillance", "freedom"]
+    },
+    {
+      "bookId": 3,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/syKbC5c/Pride-and-Prejudice-png.webp",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Romance",
+      "tags": ["love", "society", "marriage"]
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/1Ks1543/the-great-gatsby-9781524879761-hr.jpg",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Classic",
+      "tags": ["wealth", "dream", "tragedy"]
+    },
+    {
+      "bookId": 5,
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "image": "https://i.ibb.co/SJrXx17/71d5wo-Mu-L-AC-UF1000-1000-QL80.jpg",
+      "totalPages": 635,
+      "rating": 4.4,
+      "category": "Adventure",
+      "tags": ["whale", "obsession", "sea"]
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/BZ1ZZ9p/Reproduction-cover-edition-The-Catcher-in-the.webp",
+      "totalPages": 214,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["identity", "alienation", "youth"]
+    }
+  ]
